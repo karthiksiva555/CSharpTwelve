@@ -1,0 +1,15 @@
+/Users/karthiksmac/practice/csharp/CSharpTwelve/bin/Debug/net7.0/CSharpTwelve
+/Users/karthiksmac/practice/csharp/CSharpTwelve/bin/Debug/net7.0/CSharpTwelve.deps.json
+/Users/karthiksmac/practice/csharp/CSharpTwelve/bin/Debug/net7.0/CSharpTwelve.runtimeconfig.json
+/Users/karthiksmac/practice/csharp/CSharpTwelve/bin/Debug/net7.0/CSharpTwelve.dll
+/Users/karthiksmac/practice/csharp/CSharpTwelve/bin/Debug/net7.0/CSharpTwelve.pdb
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.csproj.AssemblyReference.cache
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.AssemblyInfoInputs.cache
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.AssemblyInfo.cs
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.csproj.CoreCompileInputs.cache
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.dll
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/refint/CSharpTwelve.dll
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.pdb
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/CSharpTwelve.genruntimeconfig.cache
+/Users/karthiksmac/practice/csharp/CSharpTwelve/obj/Debug/net7.0/ref/CSharpTwelve.dll
